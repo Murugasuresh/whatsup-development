@@ -9,3 +9,5 @@ Author - Murugavel
 3.last seen code
 
 4.Attachments (Image,Audio,Video) code
+
+5.Hiding the lastseen
